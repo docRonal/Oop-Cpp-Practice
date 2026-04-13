@@ -1,16 +1,18 @@
-C++ Object-Oriented Programming Practice
+#C++ Object-Oriented Programming Practice
 
 This repository is a collection of C++ exercises and implementations focused on mastering Object-Oriented Programming (OOP), memory management, and data structures.
 
 The projects progress from basic C-style memory handling to advanced C++ concepts like polymorphism and exception safety.
+
+
 📂 Repository Structure
-Folder / Project,Key Concepts,Description
-dynamic-stack,"malloc, realloc, LIFO",Custom stack implementation with manual dynamic memory resizing.
-polynomial-class,"Operator Overloading, Rule of Three","A math library for polynomials supporting +, -, * and indexing."
-complex-numbers-lib,"Friend Functions, Math Ops",Implementation of complex number arithmetic and phase/absolute calculations.
-dynamic-stack-advanced,"Exception Handling, Deep Copy","Advanced stack with try-catch logic and strict ""Rule of Three"" compliance."
-cpp-polymorphic-container,"Inheritance, Virtual Methods",Abstract interfaces and limited-size containers using std::vector.
-string-concat-c,"Pointers, C-strings",Basic manual memory allocation and string manipulation.
+    Folder / Project,Key Concepts,Description
+    dynamic-stack,"malloc, realloc, LIFO",Custom stack implementation with manual dynamic memory resizing.
+    polynomial-class,"Operator Overloading, Rule of Three","A math library for polynomials supporting +, -, * and indexing."
+    complex-numbers-lib,"Friend Functions, Math Ops",Implementation of complex number arithmetic and phase/absolute calculations.
+    dynamic-stack-advanced,"Exception Handling, Deep Copy","Advanced stack with try-catch logic and strict ""Rule of Three"" compliance."
+    cpp-polymorphic-container,"Inheritance, Virtual Methods",Abstract interfaces and limited-size containers using std::vector.
+    string-concat-c,"Pointers, C-strings",Basic manual memory allocation and string manipulation.
 🛠 Technical Highlights
 1. Manual Memory Management        
 
