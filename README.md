@@ -1,11 +1,11 @@
-#C++ Object-Oriented Programming Practice
+# C++ Object-Oriented Programming Practice
 
 This repository is a collection of C++ exercises and implementations focused on mastering Object-Oriented Programming (OOP), memory management, and data structures.
 
 The projects progress from basic C-style memory handling to advanced C++ concepts like polymorphism and exception safety.
 
 
-📂 Repository Structure
+# 📂 Repository Structure
     Folder / Project,Key Concepts,Description
     
     dynamic-stack,"malloc, realloc, LIFO",Custom stack implementation with manual dynamic memory resizing.
@@ -19,7 +19,7 @@ The projects progress from basic C-style memory handling to advanced C++ concept
     cpp-polymorphic-container,"Inheritance, Virtual Methods",Abstract interfaces and limited-size containers using std::vector.
     
     string-concat-c,"Pointers, C-strings",Basic manual memory allocation and string manipulation.
-🛠 Technical Highlights
+# 🛠 Technical Highlights
 1. Manual Memory Management        
 
 Implementation of the Rule of Three to ensure deep copying and prevent memory leaks:
@@ -48,7 +48,7 @@ Extensive use of operator overloading to create intuitive APIs for mathematical 
 
     Proper use of Virtual Destructors to ensure safe object deletion in polymorphic code.
 
-🚀 How to Run
+# How to Run
 
 Each project is self-contained. You can compile them using g++ (or any C++11/14/17 compatible compiler).
 
@@ -62,7 +62,7 @@ g++ main.cpp -o stack_test
 
 ./stack_test
 
-📝 Learning Objectives
+# Learning Objectives
 
     Understanding the transition from C-style procedural code to C++ OOP.
 
@@ -70,5 +70,6 @@ g++ main.cpp -o stack_test
 
     Learning how to build robust, reusable classes with proper encapsulation.
 
-Author: [docRonal]
+Author: docRonal
+
 Educational project for practicing C++ core principles.
