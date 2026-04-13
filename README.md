@@ -53,10 +53,13 @@ Extensive use of operator overloading to create intuitive APIs for mathematical 
 Each project is self-contained. You can compile them using g++ (or any C++11/14/17 compatible compiler).
 
 Example for the Stack project:
+
 Bash
 
 cd dynamic-stack
+
 g++ main.cpp -o stack_test
+
 ./stack_test
 
 📝 Learning Objectives
